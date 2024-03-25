@@ -1,0 +1,352 @@
+---
+layout: post
+title: "크로스백 추천 TOP10 - [60대][여성]  핍스 essential 메신저백 "
+author: smartmall89
+categories: shopping
+tags: [Top10, shopping]
+pin: true
+---
+
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**크로스백**](https://link.coupang.com/a/bniCbs)들을 추천해드리고 있습니다.
+
+<style>
+    /* 기본 스타일 */
+    .product-box {
+        border: 1px solid #ddd;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+	h1 {
+        font-size: 2.2em; /* 기본 글꼴 크기 */
+	}
+	
+	h3 {
+        font-size: 1.3em; /* 기본 글꼴 크기 */
+	}
+	
+    .product-box img {
+        width: 250px; /* 이미지가 부모 요소의 100%를 차지하도록 설정 */
+        height: auto;
+        border-radius: 10px;
+    }
+
+    /* 미디어 쿼리 추가 */
+    @media screen and (max-width: 600px) {
+        .product-box {
+            font-size: 15px; /* 작은 크기로 조절 */
+            flex-direction: column; /* 화면이 작아질 때 세로로 정렬 */
+            align-items: center; /* 가운데 정렬을 위해 추가 */
+        }
+        .product-box img {
+            max-width: 100%; /* 이미지의 최대 크기를 100%로 설정 (원래 크기로 확대) */
+            width: 250px; /* 이미지의 크기를 원래 크기로 설정 */
+            height: auto;
+        }
+        
+        h1 {
+        font-size: 1.8em; /* 기본 글꼴 크기 */
+		}
+		
+        h3{
+        font-size: 1.2em; /* 기본 글꼴 크기 */
+		}
+    }
+</style>
+<div>
+
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=303898059&traceid=V0-153&itemId=956092945&vendorItemId=70994220281" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/112146319567397-146ce8f0-47b0-4f55-9b25-153c8fba6b8d.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        1.  핍스 essential 메신저백 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,500원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4220개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=303898059&traceid=V0-153&itemId=956092945&vendorItemId=70994220281" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6810484772&traceid=V0-153&itemId=16108911953&vendorItemId=83305994439" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b49a/99cb48ac794090678113a27a308267c31a9ffa6cf1b87951ee6f3417adf0.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        2.  유스몰 옥스포드 남성 메신저백 크로스백 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">18,700원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 788개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6810484772&traceid=V0-153&itemId=16108911953&vendorItemId=83305994439" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7044548249&traceid=V0-153&itemId=17430737038&vendorItemId=88117454067" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/upz7osqj/b0c3c65dd2e74c7891c943f81e9c70a8.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        3.  수지나 데일리 캔버스 크로스백 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">11,700원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1311개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7044548249&traceid=V0-153&itemId=17430737038&vendorItemId=88117454067" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7223430231&traceid=V0-153&itemId=18311237224&vendorItemId=85436697785" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d0f3/971fa7cb9cb99db948f776858616f5ef17cf741eb8ed069dd449946ebae1.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        4.  DNIY 학생 남자 가벼운 메신저백 크로스백 데일리 슬링백 중학생 고등학생 대학생 학교 학원 보조가방 옆으로매는가방 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">15,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 399개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7223430231&traceid=V0-153&itemId=18311237224&vendorItemId=85436697785" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7826500195&traceid=V0-153&itemId=21273378012&vendorItemId=88333555630" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ba8c/59fb242f547d2d3123b1e76c6d5beb83ba37e6fceb5fc77de0b4fd7d8386.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        5.  아이지니 남여공용 크로스백 나일론 메신저 가벼운 숄더 호보백 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">47%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,870원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 126개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7826500195&traceid=V0-153&itemId=21273378012&vendorItemId=88333555630" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7044548249&traceid=V0-153&itemId=17430737038&vendorItemId=88117454067" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/upz7osqj/b0c3c65dd2e74c7891c943f81e9c70a8.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        6.  수지나 데일리 캔버스 크로스백 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">28%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">11,700원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1311개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7044548249&traceid=V0-153&itemId=17430737038&vendorItemId=88117454067" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6788797238&traceid=V0-153&itemId=15988600420&vendorItemId=83194326283" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/cf7b/48c96d2fde50098e18151ef2a7bc2198141c473aa04ba604aab91bd14b05.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        7.  커플 크로스백 가방 에코 캔버스 노트북 여행 학생 학교 학원 그릿메신저백 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,710원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1027개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6788797238&traceid=V0-153&itemId=15988600420&vendorItemId=83194326283" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7553268193&traceid=V0-153&itemId=19883116337&vendorItemId=86889618504" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6bdd/df576542fc115d59cde65dfdd2b642ac58eaad6e3091c1ed16a7a10df352.png" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        8.  라옴 남여공용 크로스백 가방 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">8%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">10,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 287개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7553268193&traceid=V0-153&itemId=19883116337&vendorItemId=86889618504" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=1392891373&traceid=V0-153&itemId=2428322150&vendorItemId=70422305654" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/03/20/20/0/cf009cb3-7050-4a25-9a7a-d9446d4c6f9a.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        9.  여성용 가벼운 페브릭 크로스백 2202N 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">75%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">18,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1431개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=1392891373&traceid=V0-153&itemId=2428322150&vendorItemId=70422305654" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7249819978&traceid=V0-153&itemId=18438977896&vendorItemId=71589946299" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c54f/00770628dac04e18f2b5e27eb29afb60c7ad004bcd40cbf1f44bf6563b5d.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10.  남자 가방 에코백 크로스백 블랙 무지 텀블러백 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">24%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">22,800원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2733개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7249819978&traceid=V0-153&itemId=18438977896&vendorItemId=71589946299" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        </div>
+<br> [📢 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.](https://link.coupang.com/a/bniCbs){: .center}

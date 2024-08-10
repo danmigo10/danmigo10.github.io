@@ -1,0 +1,352 @@
+---
+layout: post
+title: "게이밍 헤드셋 추천 TOP10 - 녹스 게이밍 헤드셋 NX-3PLUS, NX-3 PLUS, 혼합색상"
+author: smartmall89
+categories: shopping
+tags: [Top10, shopping]
+pin: true
+---
+
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**게이밍 헤드셋**](https://link.coupang.com/a/bniCbs)들을 추천해드리고 있습니다.
+
+<style>
+    /* 기본 스타일 */
+    .product-box {
+        border: 1px solid #ddd;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+	h1 {
+        font-size: 2.2em; /* 기본 글꼴 크기 */
+	}
+	
+	h3 {
+        font-size: 1.3em; /* 기본 글꼴 크기 */
+	}
+	
+    .product-box img {
+        width: 250px; /* 이미지가 부모 요소의 100%를 차지하도록 설정 */
+        height: auto;
+        border-radius: 10px;
+    }
+
+    /* 미디어 쿼리 추가 */
+    @media screen and (max-width: 600px) {
+        .product-box {
+            font-size: 15px; /* 작은 크기로 조절 */
+            flex-direction: column; /* 화면이 작아질 때 세로로 정렬 */
+            align-items: center; /* 가운데 정렬을 위해 추가 */
+        }
+        .product-box img {
+            max-width: 100%; /* 이미지의 최대 크기를 100%로 설정 (원래 크기로 확대) */
+            width: 250px; /* 이미지의 크기를 원래 크기로 설정 */
+            height: auto;
+        }
+        
+        h1 {
+        font-size: 1.8em; /* 기본 글꼴 크기 */
+		}
+		
+        h3{
+        font-size: 1.2em; /* 기본 글꼴 크기 */
+		}
+    }
+</style>
+<div>
+
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=113760998&traceid=V0-153&itemId=17756524141&vendorItemId=84920891399" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/db8a/dca516ea6107bda271d93e88d441bb269ae6aa0bcf67d3d2c2b8fb6448b8.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        1. 녹스 게이밍 헤드셋 NX-3PLUS, NX-3 PLUS, 혼합색상
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">43,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2002개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=113760998&traceid=V0-153&itemId=17756524141&vendorItemId=84920891399" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=172740098&traceid=V0-153&itemId=3377408563&vendorItemId=4252541617" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3733657860863538-345a77ba-f3e8-4a48-986e-3ecc1dbf060f.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        2. 앱코 HACKER 가상 7.1 RGB 진동 노이즈 캔슬링 마이크 3D 초경량 게이밍 헤드셋, N550 ENC, 블랙
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">34,660원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 31006개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=172740098&traceid=V0-153&itemId=3377408563&vendorItemId=4252541617" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=5836464945&traceid=V0-153&itemId=10115743959&vendorItemId=77398531172" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2435348600773117-e0820840-c6f0-4c41-8441-4b1cc5d7b98d.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        3. 앱코 가상 7.1 RGB 게이밍 헤드셋, 블랙, N460
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">23%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">22,600원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2694개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=5836464945&traceid=V0-153&itemId=10115743959&vendorItemId=77398531172" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=172740098&traceid=V0-153&itemId=5465388383&vendorItemId=4766218129" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4598366835920271-87389877-33ce-4e53-a52b-69639fa88bbe.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        4. 앱코 HACKER 가상 7.1 RGB 진동 노이즈 캔슬링 마이크 3D 초경량 게이밍 헤드셋, N550 ENC, 화이트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">34,660원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 31006개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=172740098&traceid=V0-153&itemId=5465388383&vendorItemId=4766218129" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=2171760355&traceid=V0-153&itemId=3694392871&vendorItemId=85093944196" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d479/f41b1e50cbf81a9d545d96c9499f574d01cd48088128fcb725a0b6be6b9a.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        5. 녹스 게이밍 헤드셋 USB 게임용 마이크 7.1채널, NX-501, 블랙
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">36,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1104개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=2171760355&traceid=V0-153&itemId=3694392871&vendorItemId=85093944196" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7748812277&traceid=V0-153&itemId=20866598423&vendorItemId=87933945997" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/11/30/14/5/cc8bbb38-d912-4925-9475-b632b16a5611.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        6. 아이리버 노이즈 캔슬링 마이크 레이보우 LED USB 게이밍 헤드셋, EQwear-G7H, 화이트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">15%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">21,050원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 174개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7748812277&traceid=V0-153&itemId=20866598423&vendorItemId=87933945997" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7748812277&traceid=V0-153&itemId=20866598423&vendorItemId=87933945997" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/11/30/14/5/cc8bbb38-d912-4925-9475-b632b16a5611.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        7. 아이리버 노이즈 캔슬링 마이크 레이보우 LED USB 게이밍 헤드셋, EQwear-G7H, 화이트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">23%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">21,050원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 174개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7748812277&traceid=V0-153&itemId=20866598423&vendorItemId=87933945997" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7245437790&traceid=V0-153&itemId=18419089193&vendorItemId=85561152835" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/04/05/9/6/86295fb9-62c3-4b8f-9c64-4648c7ed3968.png" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        8. 로지텍 G335 유선 게이밍 헤드셋, 블랙, 981-000980
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">42%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">72,450원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 230개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7245437790&traceid=V0-153&itemId=18419089193&vendorItemId=85561152835" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7658126304&traceid=V0-153&itemId=20394583999&vendorItemId=87614567794" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/10/30/17/9/ceb9bf42-54fb-4410-a65d-b64dddb3522e.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        9. 아이리버 가상7.1채널 노이즈캔슬링 ENC마이크 아이스블루LED USB 게이밍 헤드셋, 실버, EQwear-G30H Mirror
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">48,410원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 123개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7658126304&traceid=V0-153&itemId=20394583999&vendorItemId=87614567794" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7248372558&traceid=V0-153&itemId=18432552416&vendorItemId=5370003150" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2545345757473034-926184cd-d55b-47d9-83ce-81eefb8e4a87.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10. SCARLET 가상 7.1 RGB 진동 노이즈캔슬링 마이크 게이밍 헤드셋, 블랙
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">40,700원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4128개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7248372558&traceid=V0-153&itemId=18432552416&vendorItemId=5370003150" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        </div>
+<br> [📢 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.](https://link.coupang.com/a/bniCbs){: .center}
